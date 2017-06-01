@@ -1,0 +1,52 @@
+img {
+  opacity: 0.75;
+}
+
+
+/*
+  . = CLASS
+*/
+.btn {
+  padding: 10px 20px;
+  background-color: green;
+  color: white;
+  border: 1px solid white;
+  border-radius: 3px;
+  font-size: 20px;
+}
+
+.blue-btn {
+  background-color: blue;
+}
+
+.other-btn {
+  background-color: rgba(0, 255, 0, 0.9);
+}
+
+.big-fat-btn {
+  font-size: 40px;
+  padding: 20px 40px;
+  border-size: 4px;
+}
+
+
+
+/*
+  # = ID
+*/
+
+#superlink {
+  color: orange;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+body {
+  background-color: red;
+}
+
+p {
+  background-color: indigo;
+  color: white;
+  font-size: 12px;
+}
